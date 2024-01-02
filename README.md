@@ -1,4 +1,4 @@
-## Intro
+# Intro
 Learning Rust concepts: let, mut, match, arms, cargo, references, and shadowing.
 
 # let & mut
